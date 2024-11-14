@@ -1,0 +1,36 @@
+[{
+  "_id": "partido_1",
+  "fecha": "2024-11-20",
+  "lugar": "Estadio Monumental",
+  "equipo_local": "Argentina",
+  "equipo_visitante": "Brasil",
+  "arbitro": "arbitro_1",
+  "resultado": {
+    "goles_local": 2,
+    "goles_visitante": 1
+  }
+},
+{
+  "_id": "partido_2",
+  "fecha": "2024-11-21",
+  "lugar": "Parc des Princes",
+  "equipo_local": "Francia",
+  "equipo_visitante": "Alemania",
+  "arbitro": "arbitro_2",
+  "resultado": {
+    "goles_local": 3,
+    "goles_visitante": 2
+  }
+},
+{
+  "_id": "partido_3",
+  "fecha": "2024-11-22",
+  "lugar": "Estadio Santiago Bernabéu",
+  "equipo_local": "España",
+  "equipo_visitante": "Brasil",
+  "arbitro": "arbitro_3",
+  "resultado": {
+    "goles_local": 1,
+    "goles_visitante": 1
+  }
+}]

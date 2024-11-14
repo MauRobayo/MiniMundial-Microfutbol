@@ -1,0 +1,12 @@
+[{
+  "_id": "pos_arg",
+  "equipo": "Argentina",
+  "partidos_jugados": 3,
+  "victorias": 2,
+  "empates": 0,
+  "derrotas": 1,
+  "goles_a_favor": 6,
+  "goles_en_contra": 4,
+  "diferencia_goles": 2,
+  "puntos": 6
+}]

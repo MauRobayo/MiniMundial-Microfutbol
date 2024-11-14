@@ -1,0 +1,21 @@
+[{
+  "_id": "arbitro_1",
+  "nombre": "Néstor Pitana",
+  "edad": 47,
+  "nacionalidad": "Argentina",
+  "partidos_dirigidos": 50
+},
+{
+  "_id": "arbitro_2",
+  "nombre": "Bjorn Kuipers",
+  "edad": 50,
+  "nacionalidad": "Países Bajos",
+  "partidos_dirigidos": 60
+},
+{
+  "_id": "arbitro_3",
+  "nombre": "Daniele Orsato",
+  "edad": 48,
+  "nacionalidad": "Italia",
+  "partidos_dirigidos": 45
+}]

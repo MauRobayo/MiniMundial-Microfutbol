@@ -1,0 +1,180 @@
+[{
+  "0": {
+    "_id": "arg_jugador_1",
+    "nombre": "Lionel Messi",
+    "edad": 36,
+    "posicion": "Delantero",
+    "equipo": "Argentina"
+  },
+  "1": {
+    "_id": "arg_jugador_2",
+    "nombre": "Emiliano Martínez",
+    "edad": 31,
+    "posicion": "Portero",
+    "equipo": "Argentina"
+  },
+  "2": {
+    "_id": "arg_jugador_3",
+    "nombre": "Cristian Romero",
+    "edad": 25,
+    "posicion": "Defensor",
+    "equipo": "Argentina"
+  },
+  "3": {
+    "_id": "arg_jugador_4",
+    "nombre": "Rodrigo De Paul",
+    "edad": 28,
+    "posicion": "Mediocampista",
+    "equipo": "Argentina"
+  },
+  "4": {
+    "_id": "arg_jugador_5",
+    "nombre": "Ángel Di María",
+    "edad": 35,
+    "posicion": "Delantero",
+    "equipo": "Argentina"
+  },
+  "5": {
+    "_id": "bra_jugador_1",
+    "nombre": "Neymar Jr.",
+    "edad": 31,
+    "posicion": "Delantero",
+    "equipo": "Brasil"
+  },
+  "6": {
+    "_id": "bra_jugador_2",
+    "nombre": "Alisson Becker",
+    "edad": 31,
+    "posicion": "Portero",
+    "equipo": "Brasil"
+  },
+  "7": {
+    "_id": "bra_jugador_3",
+    "nombre": "Thiago Silva",
+    "edad": 39,
+    "posicion": "Defensor",
+    "equipo": "Brasil"
+  },
+  "8": {
+    "_id": "bra_jugador_4",
+    "nombre": "Casemiro",
+    "edad": 31,
+    "posicion": "Mediocampista",
+    "equipo": "Brasil"
+  },
+  "9": {
+    "_id": "bra_jugador_5",
+    "nombre": "Vinícius Jr.",
+    "edad": 24,
+    "posicion": "Delantero",
+    "equipo": "Brasil"
+  },
+  "10": {
+    "_id": "fra_jugador_1",
+    "nombre": "Kylian Mbappé",
+    "edad": 25,
+    "posicion": "Delantero",
+    "equipo": "Francia"
+  },
+  "11": {
+    "_id": "fra_jugador_2",
+    "nombre": "Hugo Lloris",
+    "edad": 37,
+    "posicion": "Portero",
+    "equipo": "Francia"
+  },
+  "12": {
+    "_id": "fra_jugador_3",
+    "nombre": "Raphaël Varane",
+    "edad": 31,
+    "posicion": "Defensor",
+    "equipo": "Francia"
+  },
+  "13": {
+    "_id": "fra_jugador_4",
+    "nombre": "N'Golo Kanté",
+    "edad": 33,
+    "posicion": "Mediocampista",
+    "equipo": "Francia"
+  },
+  "14": {
+    "_id": "fra_jugador_5",
+    "nombre": "Antoine Griezmann",
+    "edad": 32,
+    "posicion": "Delantero",
+    "equipo": "Francia"
+  },
+  "15": {
+    "_id": "ale_jugador_1",
+    "nombre": "Thomas Müller",
+    "edad": 34,
+    "posicion": "Delantero",
+    "equipo": "Alemania"
+  },
+  "16": {
+    "_id": "ale_jugador_2",
+    "nombre": "Manuel Neuer",
+    "edad": 38,
+    "posicion": "Portero",
+    "equipo": "Alemania"
+  },
+  "17": {
+    "_id": "ale_jugador_3",
+    "nombre": "Antonio Rüdiger",
+    "edad": 31,
+    "posicion": "Defensor",
+    "equipo": "Alemania"
+  },
+  "18": {
+    "_id": "ale_jugador_4",
+    "nombre": "Joshua Kimmich",
+    "edad": 29,
+    "posicion": "Mediocampista",
+    "equipo": "Alemania"
+  },
+  "19": {
+    "_id": "ale_jugador_5",
+    "nombre": "Serge Gnabry",
+    "edad": 29,
+    "posicion": "Delantero",
+    "equipo": "Alemania"
+  },
+  "20": {
+    "_id": "esp_jugador_1",
+    "nombre": "Álvaro Morata",
+    "edad": 32,
+    "posicion": "Delantero",
+    "equipo": "España"
+  },
+  "21": {
+    "_id": "esp_jugador_2",
+    "nombre": "Unai Simón",
+    "edad": 27,
+    "posicion": "Portero",
+    "equipo": "España"
+  },
+  "22": {
+    "_id": "esp_jugador_3",
+    "nombre": "Sergio Ramos",
+    "edad": 38,
+    "posicion": "Defensor",
+    "equipo": "España"
+  },
+  "23": {
+    "_id": "esp_jugador_4",
+    "nombre": "Rodri Hernández",
+    "edad": 28,
+    "posicion": "Mediocampista",
+    "equipo": "España"
+  },
+  "24": {
+    "_id": "esp_jugador_5",
+    "nombre": "Ferran Torres",
+    "edad": 24,
+    "posicion": "Delantero",
+    "equipo": "España"
+  },
+  "_id": {
+    "$oid": "673406a8b7053c01273fcb92"
+  }
+}]

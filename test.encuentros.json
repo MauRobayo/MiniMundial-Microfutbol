@@ -1,0 +1,12 @@
+[{
+  "_id": "partido_1",
+  "fecha": "2024-11-20",
+  "lugar": "Estadio Monumental",
+  "equipo_local": "Argentina",
+  "equipo_visitante": "Brasil",
+  "arbitro": "arbitro_1",
+  "resultado": {
+    "goles_local": 2,
+    "goles_visitante": 1
+  }
+}]

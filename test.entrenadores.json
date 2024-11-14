@@ -1,0 +1,35 @@
+[{
+  "_id": "entrenador_arg",
+  "nombre": "Lionel Scaloni",
+  "edad": 45,
+  "equipo": "Argentina",
+  "experiencia_anios": 5
+},
+{
+  "_id": "entrenador_bra",
+  "nombre": "Tite",
+  "edad": 62,
+  "equipo": "Brasil",
+  "experiencia_anios": 10
+},
+{
+  "_id": "entrenador_fra",
+  "nombre": "Didier Deschamps",
+  "edad": 55,
+  "equipo": "Francia",
+  "experiencia_anios": 11
+},
+{
+  "_id": "entrenador_ale",
+  "nombre": "Hans-Dieter Flick",
+  "edad": 58,
+  "equipo": "Alemania",
+  "experiencia_anios": 3
+},
+{
+  "_id": "entrenador_esp",
+  "nombre": "Luis Enrique",
+  "edad": 54,
+  "equipo": "España",
+  "experiencia_anios": 8
+}]
